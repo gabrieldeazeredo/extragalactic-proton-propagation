@@ -8,6 +8,10 @@ I propagated protons emitted by an one source simple model and compute the Earth
 
 **The full documentation is WIP!**
 
+## Example of result obtained with this code:
+
+![example](img/example_proton_spectrum.png)
+
 ---
 Main references:
 
