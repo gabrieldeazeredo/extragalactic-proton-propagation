@@ -49,6 +49,12 @@ function dt_dz(z)
     return -1 / H_0 * (1 + z)^(-5/2)
 end
 
+"""
+    Hubble parameter.
+
+    parameter:
+        z redshift
+"""
 function H(z)
     return H_0 * (1 + z)^(3/2)
 end
